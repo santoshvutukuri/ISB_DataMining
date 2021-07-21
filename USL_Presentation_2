@@ -1,2 +1,26 @@
 Data Comes in many forms, shapes, and sizes
 - Data Types (Numeric, Ordinal, Symbolic)
+- Data Organization (Multivariate, Basket, Bag, 1-D Seq, 1-D Series, 2-D Series, 3-D Series, 4-D Series, Graphs, 3-D Shapes)
+- Data Modalities (Structured, Unstructured)
+Data Nuances
+- Feature Noise
+- Missing Features
+- Non-Normal Feature Distributions
+- Heterogeneous features
+- Multi Model Features
+- Feature Scales
+- Mixture of Features
+Data Exploration
+- Picture is worth Million numbers
+- Histograms
+- Covariance Analysis
+- Scatter Plots
+- Principal Component Analysis
+- Multi-Dimensional Scaling (Viz Smells, Dist b/w Species, Races, Emotions, Viz Words, Proximity Graphs, Intent Graphs, Genome Exp, 
+Author Collab Network, Viz Communities, Segments, Store Comparisions) 
+- Self-Organizing Maps (News Clusters, Visual Search, Insurance Claims, Call Centre Notes, Defaulters, Ford Recall)
+- Manifold Learning
+Data Visualization
+- Predictive Analytics (First Order Ignorance, I know what I dont know)
+- Viz or Exploration (2nd Order Ignorance, I dont know what I dont know)
+
